@@ -1,3 +1,6 @@
+## Disclaimer
+This project was created as part of a university exercise and has not been reviewed in any way.
+
 # Ellenberg light indicator - remote sensing approach
 Approach for the local calculation of light indicator values of individual species.
 
